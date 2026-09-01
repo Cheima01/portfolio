@@ -32,6 +32,7 @@ Puis ouvrir :
 - TOMSEN — QA & stratégie de test
 - 724-events — Automatisation des tests
 - JSE-Avocats
-- Booki
-- Mon Vieux Grimoire
-- Kasa
+- TGMT — Siemens Mobility — Test & Validation
+- SmartRails — Simulation ferroviaire
+- QBL Baie de Test Sol — Siemens Mobility
+- STEFFI — Développement Backend Python
