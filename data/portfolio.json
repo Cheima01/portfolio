@@ -1,0 +1,72 @@
+[
+  {
+    "image": "optimisation-et-debug.png",
+    "imageAlt": "Illustration de la stratégie et de la qualité logicielle",
+    "title": "TOMSEN — QA & stratégie de test",
+    "category": "test",
+    "text": "Projet de formation orienté qualité logicielle : analyse des User Stories, conception de scénarios et cas de test, stratégie de test, traçabilité, gestion des anomalies et couverture des parcours critiques. Travail autour des tests fonctionnels, API, sécurité et E2E.",
+    "link": "https://github.com/",
+    "linkLabel": "Code / projet",
+    "external": true
+  },
+  {
+    "image": "test.png",
+    "imageAlt": "Illustration de tests logiciels et automatisation",
+    "title": "724-events — Automatisation des tests",
+    "category": "test",
+    "text": "Projet d’automatisation de tests sur une application web. Mise en place de tests E2E avec Cypress et correction de fonctionnalités à partir de tickets Jira, notamment l’affichage du message de succès après réservation et le filtrage des événements par catégorie.",
+    "link": "https://github.com/ghanmicheimaa/724-events-tests-automatisation",
+    "linkLabel": "Voir sur GitHub",
+    "external": true
+  },
+  {
+    "image": "image2.png",
+    "imageAlt": "Aperçu du projet JSE-Avocats",
+    "title": "JSE-Avocats",
+    "category": "web",
+    "text": "Projet web réalisé pendant le parcours de formation. Réalisation de tests fonctionnels et exploratoires sur le site web JSE-Avocats. Exécution       des tests à partir du cahier de recette, vérification des résultats attendus, identification et reproduction des anomalies, analyse des écarts et suivi de la qualité du site",
+    "link": "https://github.com/OpenClassrooms-Student-Center/JSE-Avocats",
+    "linkLabel": "Voir le projet",
+    "external": true
+  },
+  {
+    "image": "testSiemens.png",
+    "imageAlt": "Illustration de validation logicielle ferroviaire",
+    "title": "TGMT — Siemens Mobility | Validation logiciel embarqué OBCU",
+    "category": "test",
+    "text": "Projet ferroviaire réalisé chez Expleo pour Siemens Mobility. Analyse des exigences ATP (Automatic Train Protection), rédaction de scénarios de test et mise en œuvre de stratégies de test selon les différents modes de fonctionnement : AM, SM, RM, etc. Exécution et suivi des tests dans un environnement embarqué critique, analyse des anomalies via fichiers XML, reporting des NOK et collaboration avec les développeurs en environnement Agile Scrum.",
+    "link": "",
+    "linkLabel": "",
+    "external": false
+  },
+  {
+    "image": "SimulateurFerroviaire.png",
+    "imageAlt": "Illustration d’un simulateur ferroviaire",
+    "title": "SmartRails — Simulateur ferroviaire",
+    "category": "development",
+    "text": "Projet de développement backend réalisé chez Expleo. Développement Python pour extraire et intégrer les données de balises KVB issues de l’Open Data SNCF, puis affichage des balises sur une carte OpenStreetMap et intégration dans un simulateur ferroviaire.",
+    "link": "",
+    "linkLabel": "",
+    "external": false
+  },
+  {
+    "image": "siemens.png",
+    "imageAlt": "Illustration d’une baie de test ferroviaire",
+    "title": "QBL Baie de Test Sol — Siemens Mobility",
+    "category": "test",
+    "text": "Projet d’intégration d’outils pour Siemens Mobility. Vérification du câblage de la baie de test Sol, mise à jour de la documentation technique, rédaction et exécution de scénarios de test de plateforme, ainsi qu’identification et analyse des dysfonctionnements système.",
+    "link": "",
+    "linkLabel": "",
+    "external": false
+  },
+  {
+    "image": "backend.png",
+    "imageAlt": "Illustration du développement Python et de la documentation technique",
+    "title": "STEFFI — Développement Backend Python",
+    "category": "development",
+    "text": "Projet d’innovation interne chez Expleo orienté innovation verte. Développement de scripts backend Python dans un environnement d’automatisation, participation à l’intégration technique et rédaction de la documentation et des livrables associés.",
+    "link": "",
+    "linkLabel": "",
+    "external": false
+  }
+]
